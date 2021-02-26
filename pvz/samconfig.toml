@@ -1,9 +1,0 @@
-version = 0.1
-[default]
-[default.deploy]
-[default.deploy.parameters]
-stack_name = "pvz"
-s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-1ajn3obksrs3u"
-s3_prefix = "pvz"
-region = "ap-southeast-2"
-capabilities = "CAPABILITY_IAM"
